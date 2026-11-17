@@ -1,0 +1,217 @@
+{
+  "app": {
+    "title": "Khleng Ek",
+    "subtitle": "The humming kite festival",
+    "tagline": "Fly a humming Khmer kite over rice fields, temples and the full-moon festival, across 120 levels and an endless sky."
+  },
+  "home": {
+    "allGames": "All games",
+    "start": "Start flying",
+    "continue": "Continue {level}",
+    "endless": "Endless sky",
+    "levels": "Levels",
+    "workshop": "Workshop",
+    "settings": "Settings",
+    "stars": "{n} of {total} stars",
+    "best": "Best {n}",
+    "howTitle": "How to play",
+    "how1": "Drag anywhere on the screen to steer the kite: it follows your finger. Or use the arrow keys.",
+    "how2": "Dodge egrets, rival kites, bunting and storm clouds. Three knocks and the line snaps.",
+    "how3": "Fly through rings and collect coins, then spend them in the workshop on power-ups and new kite designs."
+  },
+  "map": {
+    "title": "Levels",
+    "back": "Back",
+    "world": "Place {n}",
+    "locked": "Locked",
+    "worldLocked": "Finish place {n} to open",
+    "story": "Story",
+    "level": "Level {label}",
+    "stars": "{n} of 3 stars"
+  },
+  "worlds": {
+    "paddies": {
+      "name": "Rice Fields",
+      "blurb": "Green paddies after the harvest, and egrets everywhere."
+    },
+    "palms": {
+      "name": "Sugar Palms",
+      "blurb": "Rows of tall palms: fly over their crowns, not into them."
+    },
+    "tonlesap": {
+      "name": "Tonle Sap",
+      "blurb": "Wide water, fishing boats and gusty winds off the lake."
+    },
+    "angkor": {
+      "name": "Angkor",
+      "blurb": "Ancient towers in the golden evening light."
+    },
+    "palace": {
+      "name": "Royal Palace",
+      "blurb": "The festival sky over the capital, full of kites."
+    },
+    "moon": {
+      "name": "Full Moon",
+      "blurb": "The night festival: sky lanterns rise under the moon."
+    }
+  },
+  "goals": {
+    "distance": "Fly {n} m",
+    "coins": "Collect {n} coins",
+    "rings": "Fly through {n} rings"
+  },
+  "briefing": {
+    "mission": "The goal",
+    "tips": "In this sky",
+    "start": "Fly"
+  },
+  "tips": {
+    "ring": "Fly right through the middle of each ring: every one is worth ten coins.",
+    "bird": "Egrets fly across the sky: wait for them to pass, or go over.",
+    "rival": "Rival kites hang on lines down to the ground: go round the line, or over the kite.",
+    "bunting": "Bunting stretches right across the sky: fly above it or below it.",
+    "cloud": "Storm clouds sit high up: stay low to pass them.",
+    "palm": "Sugar palms stand tall: fly above their crowns.",
+    "lantern": "Sky lanterns drift up from below: keep high."
+  },
+  "game": {
+    "board": "The sky",
+    "pause": "Pause",
+    "m": "m",
+    "go": "Go!",
+    "crash": "The line snapped!",
+    "hit": "Ouch!",
+    "lives": "Line strength {n}",
+    "saved": "Saved by the shield!",
+    "goalDone": "Done!",
+    "noWebgl": "This device can't show the 3D sky (WebGL is off or not supported)."
+  },
+  "powers": {
+    "magnet": "Magnet",
+    "shield": "Shield",
+    "turbo": "Gust"
+  },
+  "hints": {
+    "drag": "Drag anywhere to steer the kite.",
+    "lives": "Three knocks snap the line: dodge everything!",
+    "rings": "Fly through the middle of the rings."
+  },
+  "pause": {
+    "title": "Paused",
+    "resume": "Resume",
+    "restart": "Restart",
+    "quit": "Levels",
+    "home": "Home"
+  },
+  "result": {
+    "won": "Level done!",
+    "crashed": "The line snapped!",
+    "endless": "Good flight!",
+    "record": "New record!",
+    "theEnd": "You flew every sky!",
+    "worldDone": "Place {n} done!",
+    "still": "Still to do:",
+    "banked": "Your coins are saved for the workshop.",
+    "next": "Next",
+    "replay": "Fly again",
+    "retry": "Try again",
+    "levels": "Levels"
+  },
+  "workshop": {
+    "title": "Workshop",
+    "upgrades": "Upgrades",
+    "lasts": "Lasts {n} s",
+    "level": "Level {n} of {max}",
+    "max": "Maxed out",
+    "startShield": "Start with a shield",
+    "startShieldText": "Every flight starts with a shield on.",
+    "owned": "Owned",
+    "flying": "Flying",
+    "paints": "Kite designs"
+  },
+  "paints": {
+    "classic": "Classic",
+    "sky": "Sky",
+    "lotus": "Lotus",
+    "jungle": "Jungle",
+    "royal": "Royal",
+    "gold": "Gold"
+  },
+  "story": {
+    "skip": "Skip",
+    "next": "Next",
+    "done": "Let's fly!",
+    "names": {
+      "dara": "Dara",
+      "tasok": "Grandpa Sok"
+    },
+    "paddies": {
+      "intro": {
+        "0": "The harvest is in, Dara. Do you know what that means?",
+        "1": "Kite season! Can I fly the khleng ek you made, Grandpa?",
+        "2": "Hold the line gently. Listen: when the ek hums, the wind is with you."
+      }
+    },
+    "palms": {
+      "intro": {
+        "0": "Grandpa, the sugar palms are so tall here!",
+        "1": "Fly above their crowns. A kite in a palm tree stays there till the rains.",
+        "2": "Then I'll stay high!"
+      }
+    },
+    "tonlesap": {
+      "intro": {
+        "0": "The wind off the Tonle Sap is strong and full of tricks.",
+        "1": "It's pushing my kite sideways!",
+        "2": "Don't fight it. Lean into it, and the ek will sing louder."
+      }
+    },
+    "angkor": {
+      "intro": {
+        "0": "Angkor! The towers look like lotus buds.",
+        "1": "People have flown kites here for hundreds of years.",
+        "2": "Then my kite will fly here too."
+      }
+    },
+    "palace": {
+      "intro": {
+        "0": "The festival in the capital. Every kite in the country is here!",
+        "1": "So many lines in the sky. How will I get through?",
+        "2": "Watch where each line goes down to the ground, and keep clear of it."
+      }
+    },
+    "moon": {
+      "intro": {
+        "0": "Grandpa, a kite at night? Under the full moon?",
+        "1": "It's the best time. The air is calm, and the lanterns rise with you.",
+        "2": "Then listen, everyone: here comes my ek!"
+      },
+      "outro": {
+        "0": "Every sky, from the paddies to the full moon. I heard your ek from the village.",
+        "1": "It sings because you made it well, Grandpa.",
+        "2": "Next season, you'll make your own. And the endless sky is still waiting."
+      }
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "sound": "Sound effects",
+    "music": "Music",
+    "haptics": "Vibration",
+    "reset": "Erase progress",
+    "resetConfirm": "Erase all stars and levels on this device? This can't be undone.",
+    "resetDo": "Erase",
+    "cancel": "Cancel",
+    "privacy": "Your progress stays on this device.",
+    "hd": "High-quality graphics"
+  },
+  "pwa": {
+    "install": "Install",
+    "offlineReady": "Ready to play offline",
+    "iosTitle": "Install on iPhone or iPad",
+    "iosStep1": "In Safari, tap the Share button",
+    "iosStep2": "Choose “Add to Home Screen”, then “Add”.",
+    "update": "A new version is ready"
+  }
+}
